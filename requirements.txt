@@ -1,0 +1,35 @@
+##########################
+# analysis
+##########################
+
+pandas
+numpy
+scipy
+
+matplotlib
+statsmodels
+fastparquet
+python-snappy
+msgpack==0.5.6    # there is a bug in 0.5.4
+seaborn
+scikit-learn==0.22.2.post1
+
+##########################
+# influx
+##########################
+influxdb_client
+influxdb
+
+##########################
+# jupyter
+##########################
+jupyterlab
+notebook
+ipykernel
+
+##########################
+# unit testing
+##########################
+pytest
+pytest-pythonpath
+coverage
